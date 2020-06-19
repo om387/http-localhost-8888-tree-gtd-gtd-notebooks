@@ -1,5 +1,5 @@
 # http-localhost-8888-tree-gtd-gtd-notebooks
- todo_listing = []  
+ todo_task schedule application on Python-Django-Postgres framework= []  
 
   for todo_list in List.objects.all():  
 
